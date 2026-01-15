@@ -1,0 +1,7 @@
+{
+  "name": "4THLETIC",
+  "description": "4THLETIC é o seu companheiro definitivo na jornada de evolução atlética. 💪⚽️\nDesenvolvido para monitorar o desempenho do atleta de forma inteligente e personalizada, o app combina métricas precisas com insights práticos para você treinar com mais eficiência, acompanhar progressos e atingir seus objetivos.\n\nCom ferramentas intuitivas de gestão de performance, você pode:\n\nRegistrar e analisar dados de treino em tempo real 📊\n\nAvaliar evolução física e técnica ao longo do tempo 📈\n\nReceber alertas e recomendações que ajudam a minimizar riscos de lesões 🚑\n\nTomar decisões mais seguras com base em padrões de fadiga, carga de treino e recuperação 🧠\n\nSeja você um atleta amador ou profissional, o Jersey4Performance te coloca no controle da sua performance, mantendo o foco no que importa: crescer, se desafiar e se manter saudável.\n\nTreine com inteligência. Supere seus limites com segurança. 🏃‍♂️🔥",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
